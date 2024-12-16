@@ -17,7 +17,7 @@ const Layout = () => {
   return (
     <div className="wrapper">
       <SearchContext.Provider value={{ searchValue, setSearchValue }}>
-        <Header />-
+        <Header />
         <div className="content">
           <div className="container">
             <Outlet />

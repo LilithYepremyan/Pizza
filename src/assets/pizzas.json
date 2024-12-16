@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "imageUrl": "/src/assets/pizza1.jpg",
+    "imageUrl": "/assets/pizza1.jpg",
     "title": "Пеперони",
     "types": [0, 1],
     "sizes": [26, 30, 40],
@@ -11,7 +11,7 @@
   },
   {
     "id": 1,
-    "imageUrl": "/src/assets/pizza2.jpg",
+    "imageUrl": "/assets/pizza2.jpg",
     "title": "Четыре сыра",
     "types": [0],
     "sizes": [25, 30],
@@ -21,7 +21,7 @@
   },
   {
     "id": 2,
-    "imageUrl": "/src/assets/pizza3.jpg",
+    "imageUrl": "/assets/pizza3.jpg",
     "title": "Маргарита",
     "types": [1],
     "sizes": [28, 35, 40],
@@ -31,7 +31,7 @@
   },
   {
     "id": 3,
-    "imageUrl": "/src/assets/pizza4.jpg",
+    "imageUrl": "/assets/pizza4.jpg",
     "title": "Барбекю",
     "types": [0, 1],
     "sizes": [26, 30, 40],
@@ -41,7 +41,7 @@
   },
   {
     "id": 4,
-    "imageUrl": "/src/assets/pizza5.jpg",
+    "imageUrl": "/assets/pizza5.jpg",
     "title": "Гавайская",
     "types": [0],
     "sizes": [26, 30],
@@ -51,7 +51,7 @@
   },
   {
     "id": 5,
-    "imageUrl": "/src/assets/pizza6.jpg",
+    "imageUrl": "/assets/pizza6.jpg",
     "title": "Мясная",
     "types": [0, 1],
     "sizes": [26, 35, 40],
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "imageUrl": "/src/assets/pizza7.jpg",
+    "imageUrl": "/assets/pizza7.jpg",
     "title": "Грибная",
     "types": [1],
     "sizes": [30, 40],
@@ -71,7 +71,7 @@
   },
   {
     "id": 7,
-    "imageUrl": "/src/assets/pizza8.jpg",
+    "imageUrl": "/assets/pizza8.jpg",
     "title": "Морская",
     "types": [0],
     "sizes": [26, 30, 35],
@@ -81,7 +81,7 @@
   },
   {
     "id": 8,
-    "imageUrl": "/src/assets/pizza9.jpg",
+    "imageUrl": "/assets/pizza9.jpg",
     "title": "Овощная",
     "types": [1],
     "sizes": [26, 35],
@@ -91,7 +91,7 @@
   },
   {
     "id": 9,
-    "imageUrl": "/src/assets/pizza10.jpg",
+    "imageUrl": "/assets/pizza10.jpg",
     "title": "Острая мексиканская",
     "types": [0, 1],
     "sizes": [28, 35, 40],
